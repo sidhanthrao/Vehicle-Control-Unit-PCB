@@ -9,10 +9,6 @@ Custom VCU board for the Formula Student team of my college. It handles dual-cha
 
 I am a member of the Powertrain Electronics department and designed this board in Altium Designer. 
 
-- <!-- e.g. APPS dual-channel conditioning and filtering -->
-- <!-- e.g. CAN transceiver and LoRa telemetry sections -->
-- <!-- e.g. Motor controller interface (buffered analog + CAN) -->
-- <!-- e.g. Schematic capture, component selection, PCB layout -->
 
 ## Overview
 
